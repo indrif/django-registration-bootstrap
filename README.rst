@@ -1,6 +1,28 @@
 Django Registration Bootstrap
 =============================
 
+Install it
+----------
+
+.. code-block:: bash
+
+    $ pip install https://github.com/ebertti/django-registration-bootstrap/archive/master.zip
+
+Into the settings file, add the following to ``INSTALLED_APPS``:
+
+.. code-block:: python
+
+    INSTALLED_APPS = (
+        # ... everything else
+
+        # Add the templates via INSTALLED_APPS
+        'registration_bootstrap3',
+    )
+
+
+
+
+
 Simple sample using bootstrap from twitter in forms of Django
 -------------------------------------------------------------
 
