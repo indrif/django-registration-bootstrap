@@ -37,7 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'app_sample',
+    'registration_bootstrap3',
 )
 
 MIDDLEWARE_CLASSES = (
