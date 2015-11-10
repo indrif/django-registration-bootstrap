@@ -6,7 +6,7 @@ Install it
 
 .. code-block:: bash
 
-    $ pip install https://github.com/ebertti/django-registration-bootstrap/archive/master.zip
+    $ pip install https://github.com/indrif/django-registration-bootstrap/archive/master.zip
 
 Into the settings file, add the following to ``INSTALLED_APPS``:
 
