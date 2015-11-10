@@ -25,7 +25,7 @@ setup(
         'registration_bootstrap3'
     ],
     package_data={
-        'registration_bootstrap3': ['static/*/*/*', 'templates/*', 'templates/*/*', 'templatetags/*']
+        'registration_bootstrap3': ['static/*/*/*', 'templates/*/*', 'templatetags/*', 'templates/base.html']
     },
     include_package_data=True,
     license="BSD",
