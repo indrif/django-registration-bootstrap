@@ -26,9 +26,9 @@ Into the settings file, add the following to ``INSTALLED_APPS``:
 Simple sample using bootstrap from twitter in forms of Django
 -------------------------------------------------------------
 
-Using Bootstrap from Twitter version 3.0.3
+Using Bootstrap from Twitter version 3.3.5
 
-And Django version 1.6.1
+And Django version 1.8
 
 http://twitter.github.com/bootstrap
 
@@ -53,6 +53,10 @@ Screenshots
 
 Changelog
 ---------
+
+2015-11-10 by indrif
+
+- Update to Bootstrap 3.5.3 and Django 1.8
 
 2014-01-16 by EBertti
 
