@@ -22,8 +22,11 @@ setup(
     author_email='ebertti@gmail.com',
     url='https://github.com/ebertti/django-registration-bootstrap',
     packages=[
-        'registration_bootstrap3',
+        'registration_bootstrap3'
     ],
+    package_data={
+        'registration_bootstrap3': ['bootstrap/*', 'templates/*/*', 'templatetags/*']
+    },
     include_package_data=True,
     license="BSD",
     zip_safe=False,
